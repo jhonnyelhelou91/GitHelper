@@ -8,7 +8,7 @@ PowerShell Helper scripts to manage git repositories.
 * Open Command Line or PowerShell (*Window + X, A*)
 * If you opened Command Prompt, then type *powershell* in order to use PowerShell commands
 * Navigate to the scripts directory <br />`cd your_directory`
-* Type <br />`Import-Module .\EnvironmentVariables.psm1`
+* Type <br />`Import-Module .\GitHelper.psm1`
 * Now you can use the methods from your PowerShell session
 
 ### Adding Script to Profile [Optional]
